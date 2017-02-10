@@ -18,3 +18,8 @@ C:\Users\moham\TPPokemon-master\EntitiesLayer\bin\Debug\EntitiesLayer.pdb
 C:\Users\moham\TPPokemon-master\EntitiesLayer\obj\Debug\EntitiesLayer.csprojResolveAssemblyReference.cache
 C:\Users\moham\TPPokemon-master\EntitiesLayer\obj\Debug\EntitiesLayer.dll
 C:\Users\moham\TPPokemon-master\EntitiesLayer\obj\Debug\EntitiesLayer.pdb
+C:\Users\moham\TPPokemon-master - Copie\EntitiesLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\moham\TPPokemon-master - Copie\EntitiesLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\moham\TPPokemon-master - Copie\EntitiesLayer\obj\Debug\EntitiesLayer.csprojResolveAssemblyReference.cache
+C:\Users\moham\TPPokemon-master - Copie\EntitiesLayer\obj\Debug\EntitiesLayer.dll
+C:\Users\moham\TPPokemon-master - Copie\EntitiesLayer\obj\Debug\EntitiesLayer.pdb

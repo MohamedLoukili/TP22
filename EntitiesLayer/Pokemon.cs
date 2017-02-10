@@ -28,6 +28,13 @@ namespace EntitiesLayer {
             Nom = nom;
             TypeElement = elem;
         }
+        public Pokemon(int id, String nom, ETypeElement elem, int valvie, int valforce, int valesq, int valendur, int valvit)
+        {
+            ID = id;
+            carac = new Caracteristiques(valvie, valforce, valesq, valendur, valvit);
+            Nom = nom;
+            TypeElement = elem;
+        }
 
         public override String ToString() {
             return ("Pokemon " + TypeElement + " " + Nom + " ; ID " + ID + " ; Vie " + carac.Vie + " Force " + carac.Force + " Esquive " + carac.Esquive + " Endurance " + carac.Endurance + " Vitesse " + carac.Vitesse);

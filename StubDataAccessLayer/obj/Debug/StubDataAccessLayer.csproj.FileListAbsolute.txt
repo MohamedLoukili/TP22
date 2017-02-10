@@ -26,3 +26,10 @@ C:\Users\moham\TPPokemon-master\StubDataAccessLayer\bin\Debug\EntitiesLayer.pdb
 C:\Users\moham\TPPokemon-master\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.csprojResolveAssemblyReference.cache
 C:\Users\moham\TPPokemon-master\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.dll
 C:\Users\moham\TPPokemon-master\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.pdb
+C:\Users\moham\TPPokemon-master - Copie\StubDataAccessLayer\bin\Debug\StubDataAccessLayer.dll
+C:\Users\moham\TPPokemon-master - Copie\StubDataAccessLayer\bin\Debug\StubDataAccessLayer.pdb
+C:\Users\moham\TPPokemon-master - Copie\StubDataAccessLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\moham\TPPokemon-master - Copie\StubDataAccessLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\moham\TPPokemon-master - Copie\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\moham\TPPokemon-master - Copie\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.dll
+C:\Users\moham\TPPokemon-master - Copie\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.pdb

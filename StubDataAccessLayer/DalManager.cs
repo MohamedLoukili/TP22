@@ -90,17 +90,15 @@ namespace StubDataAccessLayer
             tournoi1.AjouterMatch(match4);
 
             LsUtilisateur = new List<Utilisateur>();
-         
-		
-	    LsUtilisateur = new List<Utilisateur>();
+            LsUtilisateur.Add(new Utilisateur("","","",""));
+
+            LsUtilisateur = new List<Utilisateur>();
             Utilisateur JeanKev = new Utilisateur("Kev", "Jean", "Admin", "Admin");
             LsUtilisateur.Add(JeanKev);
             Utilisateur toto = new Utilisateur("toto", "toto", "toto", "pouet");
             LsUtilisateur.Add(toto);
             Utilisateur connar = new Utilisateur("", "", "", "");
             LsUtilisateur.Add(connar);
-	
-	
         }
 
         public Utilisateur GetUtilisateurByLogin(String plogin)

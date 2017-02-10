@@ -17,7 +17,13 @@ namespace EntitiesLayer {
             Nom = pnom;
             nbrMatch = 0;
         }
-
+        public Tournoi(int id, String pnom, int nbMatch)
+        {
+            ID = id;
+            Matchs = new List<Match>();
+            Nom = pnom;
+            nbrMatch = nbMatch;
+        }
         public void AjouterMatch(Match match)
         {
          //   if (Matchs.Count < 8)

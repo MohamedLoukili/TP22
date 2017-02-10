@@ -22,7 +22,14 @@ namespace EntitiesLayer {
 			Nom = pNom;
             carac = pCarac;
 		}
-		public override string ToString() {
+        public Stade(int id, String pNom, int pNbPlaces, Caracteristiques pCarac)
+        {
+            ID = id;
+            NbPlaces = pNbPlaces;
+            Nom = pNom;
+            carac = pCarac;
+        }
+        public override string ToString() {
 			return ("Stade " + Nom + " " + NbPlaces + " places");
 		}
 	}

@@ -33,3 +33,14 @@ C:\Users\Jo\Desktop\TPReseau\projet\PokemonTournamentConsole\PokemonTournamentCo
 C:\Users\Jo\Desktop\TPReseau\projet\PokemonTournamentConsole\PokemonTournamentConsole\bin\Debug\StubDataAccessLayer.pdb
 C:\Users\moham\TPPokemon-master\PokemonTournamentConsole\obj\Debug\PokemonTournamentConsole.exe
 C:\Users\moham\TPPokemon-master\PokemonTournamentConsole\obj\Debug\PokemonTournamentConsole.pdb
+C:\Users\moham\TPPokemon-master - Copie\PokemonTournamentConsole\bin\Debug\PokemonTournamentConsole.exe
+C:\Users\moham\TPPokemon-master - Copie\PokemonTournamentConsole\bin\Debug\PokemonTournamentConsole.pdb
+C:\Users\moham\TPPokemon-master - Copie\PokemonTournamentConsole\bin\Debug\BusinessLayer.dll
+C:\Users\moham\TPPokemon-master - Copie\PokemonTournamentConsole\bin\Debug\EntitiesLayer.dll
+C:\Users\moham\TPPokemon-master - Copie\PokemonTournamentConsole\bin\Debug\StubDataAccessLayer.dll
+C:\Users\moham\TPPokemon-master - Copie\PokemonTournamentConsole\bin\Debug\BusinessLayer.pdb
+C:\Users\moham\TPPokemon-master - Copie\PokemonTournamentConsole\bin\Debug\EntitiesLayer.pdb
+C:\Users\moham\TPPokemon-master - Copie\PokemonTournamentConsole\bin\Debug\StubDataAccessLayer.pdb
+C:\Users\moham\TPPokemon-master - Copie\PokemonTournamentConsole\obj\Debug\PokemonTournamentConsole.csprojResolveAssemblyReference.cache
+C:\Users\moham\TPPokemon-master - Copie\PokemonTournamentConsole\obj\Debug\PokemonTournamentConsole.exe
+C:\Users\moham\TPPokemon-master - Copie\PokemonTournamentConsole\obj\Debug\PokemonTournamentConsole.pdb
