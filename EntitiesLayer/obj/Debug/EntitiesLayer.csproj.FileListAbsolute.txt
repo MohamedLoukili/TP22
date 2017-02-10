@@ -1,0 +1,20 @@
+C:\Users\simon\Desktop\ISIMA\ZZ2\2semestre\Service Web\projet\PokemonTournamentConsole\EntitiesLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\simon\Desktop\ISIMA\ZZ2\2semestre\Service Web\projet\PokemonTournamentConsole\EntitiesLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\simon\Desktop\ISIMA\ZZ2\2semestre\Service Web\projet\PokemonTournamentConsole\EntitiesLayer\obj\Debug\EntitiesLayer.csprojResolveAssemblyReference.cache
+C:\Users\simon\Desktop\ISIMA\ZZ2\2semestre\Service Web\projet\PokemonTournamentConsole\EntitiesLayer\obj\Debug\EntitiesLayer.dll
+C:\Users\simon\Desktop\ISIMA\ZZ2\2semestre\Service Web\projet\PokemonTournamentConsole\EntitiesLayer\obj\Debug\EntitiesLayer.pdb
+C:\Users\Jo\Desktop\TPReseau-master\TPReseau-master\projet\PokemonTournamentConsole\EntitiesLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\Jo\Desktop\TPReseau-master\TPReseau-master\projet\PokemonTournamentConsole\EntitiesLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\Jo\Desktop\TPReseau-master\TPReseau-master\projet\PokemonTournamentConsole\EntitiesLayer\obj\Debug\EntitiesLayer.csprojResolveAssemblyReference.cache
+C:\Users\Jo\Desktop\TPReseau-master\TPReseau-master\projet\PokemonTournamentConsole\EntitiesLayer\obj\Debug\EntitiesLayer.dll
+C:\Users\Jo\Desktop\TPReseau-master\TPReseau-master\projet\PokemonTournamentConsole\EntitiesLayer\obj\Debug\EntitiesLayer.pdb
+C:\Users\Jo\Desktop\TPReseau\projet\PokemonTournamentConsole\EntitiesLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\Jo\Desktop\TPReseau\projet\PokemonTournamentConsole\EntitiesLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\Jo\Desktop\TPReseau\projet\PokemonTournamentConsole\EntitiesLayer\obj\Debug\EntitiesLayer.csprojResolveAssemblyReference.cache
+C:\Users\Jo\Desktop\TPReseau\projet\PokemonTournamentConsole\EntitiesLayer\obj\Debug\EntitiesLayer.dll
+C:\Users\Jo\Desktop\TPReseau\projet\PokemonTournamentConsole\EntitiesLayer\obj\Debug\EntitiesLayer.pdb
+C:\Users\moham\TPPokemon-master\EntitiesLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\moham\TPPokemon-master\EntitiesLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\moham\TPPokemon-master\EntitiesLayer\obj\Debug\EntitiesLayer.csprojResolveAssemblyReference.cache
+C:\Users\moham\TPPokemon-master\EntitiesLayer\obj\Debug\EntitiesLayer.dll
+C:\Users\moham\TPPokemon-master\EntitiesLayer\obj\Debug\EntitiesLayer.pdb

@@ -1,0 +1,28 @@
+C:\Users\simon\Desktop\ISIMA\ZZ2\2semestre\Service Web\projet\PokemonTournamentConsole\StubDataAccessLayer\bin\Debug\StubDataAccessLayer.dll
+C:\Users\simon\Desktop\ISIMA\ZZ2\2semestre\Service Web\projet\PokemonTournamentConsole\StubDataAccessLayer\bin\Debug\StubDataAccessLayer.pdb
+C:\Users\simon\Desktop\ISIMA\ZZ2\2semestre\Service Web\projet\PokemonTournamentConsole\StubDataAccessLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\simon\Desktop\ISIMA\ZZ2\2semestre\Service Web\projet\PokemonTournamentConsole\StubDataAccessLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\simon\Desktop\ISIMA\ZZ2\2semestre\Service Web\projet\PokemonTournamentConsole\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\simon\Desktop\ISIMA\ZZ2\2semestre\Service Web\projet\PokemonTournamentConsole\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.dll
+C:\Users\simon\Desktop\ISIMA\ZZ2\2semestre\Service Web\projet\PokemonTournamentConsole\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.pdb
+C:\Users\Jo\Desktop\TPReseau-master\TPReseau-master\projet\PokemonTournamentConsole\StubDataAccessLayer\bin\Debug\StubDataAccessLayer.dll
+C:\Users\Jo\Desktop\TPReseau-master\TPReseau-master\projet\PokemonTournamentConsole\StubDataAccessLayer\bin\Debug\StubDataAccessLayer.pdb
+C:\Users\Jo\Desktop\TPReseau-master\TPReseau-master\projet\PokemonTournamentConsole\StubDataAccessLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\Jo\Desktop\TPReseau-master\TPReseau-master\projet\PokemonTournamentConsole\StubDataAccessLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\Jo\Desktop\TPReseau-master\TPReseau-master\projet\PokemonTournamentConsole\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Jo\Desktop\TPReseau-master\TPReseau-master\projet\PokemonTournamentConsole\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.dll
+C:\Users\Jo\Desktop\TPReseau-master\TPReseau-master\projet\PokemonTournamentConsole\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.pdb
+C:\Users\Jo\Desktop\TPReseau\projet\PokemonTournamentConsole\StubDataAccessLayer\bin\Debug\StubDataAccessLayer.dll
+C:\Users\Jo\Desktop\TPReseau\projet\PokemonTournamentConsole\StubDataAccessLayer\bin\Debug\StubDataAccessLayer.pdb
+C:\Users\Jo\Desktop\TPReseau\projet\PokemonTournamentConsole\StubDataAccessLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\Jo\Desktop\TPReseau\projet\PokemonTournamentConsole\StubDataAccessLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\Jo\Desktop\TPReseau\projet\PokemonTournamentConsole\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Jo\Desktop\TPReseau\projet\PokemonTournamentConsole\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.dll
+C:\Users\Jo\Desktop\TPReseau\projet\PokemonTournamentConsole\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.pdb
+C:\Users\moham\TPPokemon-master\StubDataAccessLayer\bin\Debug\StubDataAccessLayer.dll
+C:\Users\moham\TPPokemon-master\StubDataAccessLayer\bin\Debug\StubDataAccessLayer.pdb
+C:\Users\moham\TPPokemon-master\StubDataAccessLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\moham\TPPokemon-master\StubDataAccessLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\moham\TPPokemon-master\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\moham\TPPokemon-master\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.dll
+C:\Users\moham\TPPokemon-master\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.pdb
