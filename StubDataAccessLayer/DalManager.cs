@@ -101,7 +101,7 @@ namespace StubDataAccessLayer
             LsUtilisateur.Add(connar);
         }
 
-        public Utilisateur GetUtilisateurByLogin(String plogin)
+        public Utilisateur getUtilisateurByLogin(String plogin)
         {
             var query = (from user in LsUtilisateur
                         where user.getLogin() == plogin

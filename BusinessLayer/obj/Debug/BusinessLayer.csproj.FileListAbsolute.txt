@@ -34,3 +34,14 @@ C:\Users\moham\TPPokemon-master\BusinessLayer\bin\Debug\StubDataAccessLayer.pdb
 C:\Users\moham\TPPokemon-master\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
 C:\Users\moham\TPPokemon-master\BusinessLayer\obj\Debug\BusinessLayer.dll
 C:\Users\moham\TPPokemon-master\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Benjamin\git\TP22\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Benjamin\git\TP22\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Benjamin\git\TP22\BusinessLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\Benjamin\git\TP22\BusinessLayer\bin\Debug\StubDataAccessLayer.dll
+C:\Users\Benjamin\git\TP22\BusinessLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\Benjamin\git\TP22\BusinessLayer\bin\Debug\StubDataAccessLayer.pdb
+C:\Users\Benjamin\git\TP22\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Benjamin\git\TP22\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Benjamin\git\TP22\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Benjamin\git\TP22\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Benjamin\git\TP22\BusinessLayer\bin\Debug\DataAccessLayer.pdb

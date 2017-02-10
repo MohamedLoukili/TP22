@@ -23,3 +23,8 @@ C:\Users\moham\TPPokemon-master - Copie\EntitiesLayer\bin\Debug\EntitiesLayer.pd
 C:\Users\moham\TPPokemon-master - Copie\EntitiesLayer\obj\Debug\EntitiesLayer.csprojResolveAssemblyReference.cache
 C:\Users\moham\TPPokemon-master - Copie\EntitiesLayer\obj\Debug\EntitiesLayer.dll
 C:\Users\moham\TPPokemon-master - Copie\EntitiesLayer\obj\Debug\EntitiesLayer.pdb
+C:\Users\Benjamin\git\TP22\EntitiesLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\Benjamin\git\TP22\EntitiesLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\Benjamin\git\TP22\EntitiesLayer\obj\Debug\EntitiesLayer.csprojResolveAssemblyReference.cache
+C:\Users\Benjamin\git\TP22\EntitiesLayer\obj\Debug\EntitiesLayer.dll
+C:\Users\Benjamin\git\TP22\EntitiesLayer\obj\Debug\EntitiesLayer.pdb

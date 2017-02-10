@@ -106,3 +106,38 @@ C:\Users\moham\TPPokemon-master - Copie\PokemonTournamentWPF\obj\Debug\TournoiWi
 C:\Users\moham\TPPokemon-master - Copie\PokemonTournamentWPF\obj\Debug\PokemonTournamentWPF.g.resources
 C:\Users\moham\TPPokemon-master - Copie\PokemonTournamentWPF\obj\Debug\PokemonTournamentWPF.Properties.Resources.resources
 C:\Users\moham\TPPokemon-master - Copie\PokemonTournamentWPF\obj\Debug\PokemonTournamentWPF.csproj.GenerateResource.Cache
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\obj\Debug\PokemonTournamentWPF.exe
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\obj\Debug\PokemonTournamentWPF.pdb
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\bin\Debug\PokemonTournamentWPF.exe
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\bin\Debug\PokemonTournamentWPF.pdb
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\bin\Debug\BusinessLayer.dll
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\bin\Debug\EntitiesLayer.dll
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\bin\Debug\StubDataAccessLayer.dll
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\bin\Debug\BusinessLayer.pdb
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\bin\Debug\EntitiesLayer.pdb
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\bin\Debug\StubDataAccessLayer.pdb
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\obj\Debug\PokemonTournamentWPF.csprojResolveAssemblyReference.cache
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\obj\Debug\AddMatch.baml
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\obj\Debug\AddPokemon.baml
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\obj\Debug\adduser.baml
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\obj\Debug\AddMatch.g.cs
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\obj\Debug\AddPokemon.g.cs
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\obj\Debug\AddStade.g.cs
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\obj\Debug\adduser.g.cs
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\obj\Debug\Menu.g.cs
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\obj\Debug\PokeWindow.g.cs
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\obj\Debug\TournoiWindow.g.cs
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\obj\Debug\App.g.cs
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\obj\Debug\PokemonTournamentWPF_MarkupCompile.cache
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\obj\Debug\PokemonTournamentWPF_MarkupCompile.lref
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\obj\Debug\AddStade.baml
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\obj\Debug\MainWindow.baml
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\obj\Debug\Menu.baml
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\obj\Debug\PokeWindow.baml
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\obj\Debug\TournoiWindow.baml
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\obj\Debug\PokemonTournamentWPF.g.resources
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\obj\Debug\PokemonTournamentWPF.Properties.Resources.resources
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\obj\Debug\PokemonTournamentWPF.csproj.GenerateResource.Cache
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\bin\Debug\DataAccessLayer.dll
+C:\Users\Benjamin\git\TP22\PokemonTournamentWPF\bin\Debug\DataAccessLayer.pdb

@@ -56,9 +56,16 @@ namespace PokemonTournamentWPF
                     {
                         avertissement.Text = "Ce login existe déjà !";
                     }
+                    else
+                    {
+                        BManager.getUsers().Add(new EntitiesLayer.Utilisateur(newnom, newprenom, newlogin, newmdp));
+                        //BusinessLayer.BusinessManager.Manager.updateTable(BManager.getUsers());
+                        Retour_Click(sender, e);
+                    }
                 }
                 catch {
                     BManager.getUsers().Add(new EntitiesLayer.Utilisateur(newnom, newprenom, newlogin, newmdp));
+                    //BusinessLayer.BusinessManager.Manager.updateTable(BManager.getUsers());
                     Retour_Click(sender, e);
                 }
 

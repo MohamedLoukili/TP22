@@ -38,5 +38,10 @@ namespace EntitiesLayer
         public String getPassword() {
             return Password;
         }
+
+        public override string ToString()
+        {
+            return ("Utilisateur " + Nom + "," + Prenom + ", login : " + Login + ", password : " + Password);
+        }
     }
 }

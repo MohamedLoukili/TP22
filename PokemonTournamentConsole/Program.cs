@@ -33,7 +33,17 @@ namespace PokemonTournamentConsole {
 			Console.WriteLine(dresseur1);
 			Console.WriteLine(dresseur2);
 
-			Console.ReadKey();
+
+            /*BusinessLayer.BusinessManager BManager = new BusinessLayer.BusinessManager();
+
+            Console.WriteLine(BusinessLayer.BusinessManager.Manager.ToString());
+            BManager.getUsers().Add(new EntitiesLayer.Utilisateur("1", "", "", ""));
+            foreach(Utilisateur tmp in BManager.getUsers())
+                Console.WriteLine(tmp.ToString());
+            List<Utilisateur> cp = BManager.getUsers();
+            BusinessLayer.BusinessManager.Manager.updateTable(cp);
+            Console.WriteLine(BusinessLayer.BusinessManager.Manager.ToString());*/
+            Console.ReadKey();
 		}
 	}
 }

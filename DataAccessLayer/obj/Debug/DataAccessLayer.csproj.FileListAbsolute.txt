@@ -1,0 +1,7 @@
+C:\Users\Benjamin\git\TP22\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Benjamin\git\TP22\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Benjamin\git\TP22\DataAccessLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\Benjamin\git\TP22\DataAccessLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\Benjamin\git\TP22\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Benjamin\git\TP22\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Benjamin\git\TP22\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 using EntitiesLayer;
 using StubDataAccessLayer;
+using DataAccessLayer;
 
 namespace BusinessLayer
 {
     public class BusinessManager
     {
-        static private DalManager Manager = new DalManager();
+        static public DataManager Manager = new DataManager();
 
         public BusinessManager() {
         }
@@ -64,7 +65,7 @@ namespace BusinessLayer
 
         public bool CheckUserExist(string login)
         {   
-            if (Manager.GetUtilisateurByLogin(login) != null)
+            if (Manager.getUtilisateurByLogin(login) != null)
             {
                 return true;
             }
@@ -76,7 +77,7 @@ namespace BusinessLayer
             bool verif=false;
             try
             {
-                Utilisateur user = Manager.GetUtilisateurByLogin(login);
+                Utilisateur user = Manager.getUtilisateurByLogin(login);
                 if (user != null)
                 {
                     if (user.getPassword() == password)

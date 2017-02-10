@@ -33,3 +33,10 @@ C:\Users\moham\TPPokemon-master - Copie\StubDataAccessLayer\bin\Debug\EntitiesLa
 C:\Users\moham\TPPokemon-master - Copie\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.csprojResolveAssemblyReference.cache
 C:\Users\moham\TPPokemon-master - Copie\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.dll
 C:\Users\moham\TPPokemon-master - Copie\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.pdb
+C:\Users\Benjamin\git\TP22\StubDataAccessLayer\bin\Debug\StubDataAccessLayer.dll
+C:\Users\Benjamin\git\TP22\StubDataAccessLayer\bin\Debug\StubDataAccessLayer.pdb
+C:\Users\Benjamin\git\TP22\StubDataAccessLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\Benjamin\git\TP22\StubDataAccessLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\Benjamin\git\TP22\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Benjamin\git\TP22\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.dll
+C:\Users\Benjamin\git\TP22\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.pdb
