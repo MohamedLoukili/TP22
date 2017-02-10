@@ -1,0 +1,23 @@
+﻿<Window x:Class="PokemonTournamentWPF.AddStade"
+        WindowStartupLocation="CenterScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PokemonTournamentWPF"
+        mc:Ignorable="d"
+        Title="Ajouter un stade" Height="292.336" Width="308.759">
+    <Grid>
+        <Label x:Name="titre" Content="Ajouter un Stade" HorizontalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" FontFamily="Cooper Black" FontSize="14" Width="292"/>
+        <TextBlock x:Name="tb1" HorizontalAlignment="Left" Margin="10,31,0,0" TextWrapping="Wrap" Text="Nom :" VerticalAlignment="Top" FontFamily="Cooper Black" FontSize="13" Height="19" Width="56"/>
+        <TextBox x:Name="Nom" HorizontalAlignment="Left" Height="23" Margin="10,55,0,0" TextWrapping="Wrap" Text="nom" VerticalAlignment="Top" Width="272" FontStyle="Italic"/>
+        <TextBlock x:Name="tb2" HorizontalAlignment="Left" Margin="10,83,0,0" TextWrapping="Wrap" Text="Nombre de places :" VerticalAlignment="Top" FontFamily="Cooper Black" FontSize="13" Height="19" Width="159"/>
+        <TextBox x:Name="Nbr_places" HorizontalAlignment="Left" Height="23" Margin="10,107,0,0" TextWrapping="Wrap" Text="nombre places" VerticalAlignment="Top" Width="272" FontStyle="Italic"/>
+        <TextBlock x:Name="tb3" HorizontalAlignment="Left" Margin="10,135,0,0" TextWrapping="Wrap" Text="Bonus Force :" VerticalAlignment="Top" FontFamily="Cooper Black" FontSize="13" Height="19" Width="121"/>
+        <TextBox x:Name="bonus_f" HorizontalAlignment="Left" Height="23" Margin="10,159,0,0" TextWrapping="Wrap" Text="force" VerticalAlignment="Top" Width="272" FontStyle="Italic"/>
+        <TextBlock x:Name="avertissement" HorizontalAlignment="Left" Margin="10,187,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="262" FontFamily="Cooper Black" Height="17" Foreground="#FFFD0000"/>
+        <Button x:Name="Valider" Content="Valider" HorizontalAlignment="Left" Margin="10,209,0,0" VerticalAlignment="Top" Width="75" Click="Valider_Click"/>
+        <Button x:Name="Retour" Content="Retour" HorizontalAlignment="Left" Margin="207,209,0,0" VerticalAlignment="Top" Width="75" Click="Retour_Click"/>
+
+    </Grid>
+</Window>

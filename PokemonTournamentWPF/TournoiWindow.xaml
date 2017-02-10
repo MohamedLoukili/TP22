@@ -1,0 +1,192 @@
+﻿<Window x:Class="PokemonTournamentWPF.TournoiWindow"
+        WindowStartupLocation="CenterScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PokemonTournamentWPF"
+        mc:Ignorable="d"
+        Title="Window1" Height="586" Width="866">
+    <Grid Name="letournoi" Height="562" VerticalAlignment="Top" Margin="0,0,0,-53">
+        <Rectangle Fill="Turquoise" HorizontalAlignment="Left" Height="103" Margin="152,247,0,0" Stroke="Turquoise" VerticalAlignment="Top" Width="10" RadiusY="6.5" RadiusX="6.5" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90.361"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="Turquoise" HorizontalAlignment="Left" Height="85" Margin="105,294,0,0" Stroke="Turquoise" VerticalAlignment="Top" Width="11" RadiusY="6.5" RadiusX="6.5" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="179.618"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="Turquoise" HorizontalAlignment="Left" Height="103" Margin="267,247,0,0" Stroke="Turquoise" VerticalAlignment="Top" Width="10" RadiusY="6.5" RadiusX="6.5" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1.032" ScaleX="-0.969"/>
+                    <SkewTransform AngleY="-0.023"/>
+                    <RotateTransform Angle="-90.35"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="Turquoise" HorizontalAlignment="Left" Height="85" Margin="314,294,0,0" Stroke="Turquoise" VerticalAlignment="Top" Width="11" RadiusY="6.5" RadiusX="6.5" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform AngleY="-0.024"/>
+                    <RotateTransform Angle="-179.606"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="Turquoise" HorizontalAlignment="Left" Height="103" Margin="578,247,0,0" Stroke="Turquoise" VerticalAlignment="Top" Width="10" RadiusY="6.5" RadiusX="6.5" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90.361"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="Turquoise" HorizontalAlignment="Left" Height="85" Margin="531,294,0,0" Stroke="Turquoise" VerticalAlignment="Top" Width="11" RadiusY="6.5" RadiusX="6.5" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="179.618"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="Turquoise" HorizontalAlignment="Left" Height="103" Margin="686,247,0,0" Stroke="Turquoise" VerticalAlignment="Top" Width="10" RadiusY="6.5" RadiusX="6.5" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1.032" ScaleX="-0.969"/>
+                    <SkewTransform AngleY="-0.023"/>
+                    <RotateTransform Angle="-90.35"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="Turquoise" HorizontalAlignment="Left" Height="85" Margin="733,294,0,0" Stroke="Turquoise" VerticalAlignment="Top" Width="11" RadiusY="6.5" RadiusX="6.5" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform AngleY="-0.024"/>
+                    <RotateTransform Angle="-179.606"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="Turquoise" HorizontalAlignment="Left" Height="425" Margin="418,13,0,0" Stroke="Turquoise" VerticalAlignment="Top" Width="10" RadiusY="6.5" RadiusX="6.5" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="89.909"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="Turquoise" HorizontalAlignment="Left" Height="79" Margin="210,223,0,0" Stroke="Turquoise" VerticalAlignment="Top" Width="11" RadiusY="6.5" RadiusX="6.5" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="179.618"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="Turquoise" HorizontalAlignment="Left" Height="76" Margin="626,223,0,0" Stroke="Turquoise" VerticalAlignment="Top" Width="10" RadiusY="6.5" RadiusX="6.5" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform AngleX="0.063"/>
+                    <RotateTransform Angle="-179.585"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle Fill="Turquoise" HorizontalAlignment="Left" Height="35" Margin="417,196,0,0" Stroke="Turquoise" VerticalAlignment="Top" Width="12" RadiusY="6.5" RadiusX="6.5" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform AngleX="0.063"/>
+                    <RotateTransform Angle="-179.585"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+
+
+        <!--<Label x:Name="match_H1_1" Content="{Binding Matchs[0].Pokemon1.Nom}" HorizontalAlignment="Left" Margin="90,104,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="match_H1_2" Content="{Binding Matchs[0].Pokemon2.Nom}" HorizontalAlignment="Left" Margin="90,134,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="match_H2_1" Content="{Binding Matchs[1].Pokemon1.Nom}" HorizontalAlignment="Left" Margin="90,184,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="match_H2_2" Content="{Binding Matchs[1].Pokemon2.Nom}" HorizontalAlignment="Left" Margin="90,214,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="match_H3_1" Content="{Binding Matchs[2].Pokemon1.Nom}" HorizontalAlignment="Left" Margin="90,264,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="match_H3_2" Content="{Binding Matchs[2].Pokemon2.Nom}" HorizontalAlignment="Left" Margin="90,294,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="match_H4_1" Content="{Binding Matchs[3].Pokemon1.Nom}" HorizontalAlignment="Left" Margin="90,344,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="match_H4_2" Content="{Binding Matchs[3].Pokemon2.Nom}" HorizontalAlignment="Left" Margin="90,374,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="match_H5_1" Content="{Binding Matchs[4].Pokemon1.Nom}" HorizontalAlignment="Left" Margin="737,104,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="match_H5_2" Content="{Binding Matchs[4].Pokemon2.Nom}" HorizontalAlignment="Left" Margin="737,124,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="match_H6_1" Content="{Binding Matchs[5].Pokemon1.Nom}" HorizontalAlignment="Left" Margin="737,184,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="match_H6_2" Content="{Binding Matchs[5].Pokemon2.Nom}" HorizontalAlignment="Left" Margin="737,214,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="match_H7_1" Content="{Binding Matchs[6].Pokemon1.Nom}" HorizontalAlignment="Left" Margin="737,264,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="match_H7_2" Content="{Binding Matchs[6].Pokemon2.Nom}" HorizontalAlignment="Left" Margin="737,294,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="match_H8_1" Content="{Binding Matchs[7].Pokemon1.Nom}" HorizontalAlignment="Left" Margin="737,344,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="match_H8_2" Content="{Binding Matchs[7].Pokemon2.Nom}" HorizontalAlignment="Left" Margin="737,374,0,0" VerticalAlignment="Top"/>-->
+        <!--<Label x:Name="match_Q1_1" Content="{Binding Matchs[0].Pokemon1.Nom}" HorizontalAlignment="Left" Margin="41,356,0,0" VerticalAlignment="Top"/>-->
+        <Image x:Name="match_Q1_1" Source="{Binding}" HorizontalAlignment="Left" Height="59" Margin="35,341,0,0" VerticalAlignment="Top" Width="64"/>
+        <!--<Label x:Name="match_Q1_2" Content="{Binding Matchs[0].Pokemon2.Nom}" HorizontalAlignment="Left" Margin="155,357,0,0" VerticalAlignment="Top"/>-->
+        <Image x:Name="match_Q1_2" Source="{Binding}" HorizontalAlignment="Left" Height="59" Margin="123,341,0,0" VerticalAlignment="Top" Width="64"/>
+        <!--<Label x:Name="match_Q2_1" Content="{Binding Matchs[1].Pokemon1.Nom}" HorizontalAlignment="Left" Margin="235,356,0,0" VerticalAlignment="Top"/>-->
+        <Image x:Name="match_Q2_1" Source="{Binding}" HorizontalAlignment="Left" Height="59" Margin="242,341,0,0" VerticalAlignment="Top" Width="64"/>
+        <!--<Label x:Name="match_Q2_2" Content="{Binding Matchs[1].Pokemon2.Nom}" HorizontalAlignment="Left" Margin="365,356,0,0" VerticalAlignment="Top"/>-->
+        <Image x:Name="match_Q2_2" Source="{Binding}" HorizontalAlignment="Left" Height="59" Margin="332,341,0,0" VerticalAlignment="Top" Width="64"/>
+        <!--<Label x:Name="match_Q3_1" Content="{Binding Matchs[2].Pokemon1.Nom}" HorizontalAlignment="Left" Margin="400,356,0,0" VerticalAlignment="Top"/>-->
+        <Image x:Name="match_Q3_1" Source="{Binding}" HorizontalAlignment="Left" Height="59" Margin="460,341,0,0" VerticalAlignment="Top" Width="64"/>
+        <!--<Label x:Name="match_Q3_2" Content="{Binding Matchs[2].Pokemon2.Nom}" HorizontalAlignment="Left" Margin="588,356,0,0" VerticalAlignment="Top"/>-->
+        <Image x:Name="match_Q3_2" Source="{Binding}" HorizontalAlignment="Left" Height="59" Margin="550,341,0,0" VerticalAlignment="Top" Width="64"/>
+        <!--<Label x:Name="match_Q4_1" Content="{Binding Matchs[3].Pokemon1.Nom}" HorizontalAlignment="Left" Margin="609,356,0,0" VerticalAlignment="Top"/>-->
+        <Image x:Name="match_Q4_1" Source="{Binding}" HorizontalAlignment="Left" Height="59" Margin="662,341,0,0" VerticalAlignment="Top" Width="64"/>
+        <!--<Label x:Name="match_Q4_2" Content="{Binding Matchs[3].Pokemon2.Nom}" HorizontalAlignment="Left" Margin="798,356,0,0" VerticalAlignment="Top"/>-->
+        <Image x:Name="match_Q4_2" Source="{Binding}" HorizontalAlignment="Left" Height="59" Margin="753,341,0,0" VerticalAlignment="Top" Width="64"/>
+        <!--<Label x:Name="match_D1_1" Content="{Binding}" HorizontalAlignment="Left" Margin="115,293,0,0" VerticalAlignment="Top"/>-->
+        <Image x:Name="match_D1_1" Source="{Binding}" HorizontalAlignment="Left" Height="59" Margin="140,257,0,0" VerticalAlignment="Top" Width="64"/>
+        <!--<Label x:Name="match_D1_2" Content="{Binding}" HorizontalAlignment="Left" Margin="273,293,0,0" VerticalAlignment="Top"/>-->
+        <Image x:Name="match_D1_2" Source="{Binding}" HorizontalAlignment="Left" Height="59" Margin="233,257,0,0" VerticalAlignment="Top" Width="64"/>
+        <!--<Label x:Name="match_D2_1" Content="{Binding}" HorizontalAlignment="Left" Margin="516,293,0,0" VerticalAlignment="Top"/>-->
+        <Image x:Name="match_D2_1" Source="{Binding}" HorizontalAlignment="Left" Height="59" Margin="553,257,0,0" VerticalAlignment="Top" Width="64"/>
+        <!--<Label x:Name="match_D2_2" Content="{Binding}" HorizontalAlignment="Left" Margin="726,293,0,0" VerticalAlignment="Top"/>-->
+        <Image x:Name="match_D2_2" Source="{Binding}" HorizontalAlignment="Left" Height="59" Margin="646,257,0,0" VerticalAlignment="Top" Width="64"/>
+        <!--<Label x:Name="match_F_1" Content="{Binding}" HorizontalAlignment="Left" Margin="206,195,0,0" VerticalAlignment="Top"/>-->
+        <Image x:Name="match_F_1" Source="{Binding}" HorizontalAlignment="Left" Height="59" Margin="342,187,0,0" VerticalAlignment="Top" Width="64"/>
+        <!--<Label x:Name="match_F_2" Content="{Binding}" HorizontalAlignment="Left" Margin="592,208,0,0" VerticalAlignment="Top"/>-->
+        <Image x:Name="match_F_2" Source="{Binding}" HorizontalAlignment="Left" Height="59" Margin="436,187,0,0" VerticalAlignment="Top" Width="64"/>
+        <!--<Label x:Name="gagnant" Content="{Binding}" HorizontalAlignment="Left" Margin="402,133,0,0" VerticalAlignment="Top"/>-->
+        <Image x:Name="lumiere" Source="{Binding}" HorizontalAlignment="Left" Height="183" Margin="318,44,0,0" VerticalAlignment="Top" Width="206"/>
+        <Image x:Name="gagnant" Source="{Binding}" HorizontalAlignment="Left" Height="96" Margin="372,87,0,0" VerticalAlignment="Top" Width="102"/>
+        <Label x:Name="nomtournoi" Content="{Binding Nom}" HorizontalAlignment="Left" Margin="318,25,0,0" VerticalAlignment="Top" FontSize="24.667" Height="44" Width="241"/>
+        <Button x:Name="btn_retour" Content="Retour" HorizontalAlignment="Left" Margin="10,482,0,0" VerticalAlignment="Top" Width="75" Click="retour_btn"/>
+        <Button x:Name="btn_VS_1" Content="VS" HorizontalAlignment="Left" Margin="92,373,0,0" VerticalAlignment="Top" Width="38" Click="Match_Q1_start"/>
+        <Button x:Name="btn_VS_2" Content="VS" HorizontalAlignment="Left" Margin="300,373,0,0" VerticalAlignment="Top" Width="38" Click="Match_Q2_start"/>
+        <Button x:Name="btn_VS_3" Content="VS" HorizontalAlignment="Left" Margin="518,373,0,0" VerticalAlignment="Top" Width="38" Click="Match_Q3_start"/>
+        <Button x:Name="btn_VS_4" Content="VS" HorizontalAlignment="Left" Margin="720,373,0,0" VerticalAlignment="Top" Width="38" Click="Match_Q4_start"/>
+        <Button x:Name="btn_VS_D1" Content="VS" HorizontalAlignment="Left" Margin="198,288,0,0" VerticalAlignment="Top" Width="38" Click="Match_D1_start"/>
+        <Button x:Name="btn_VS_D2" Content="VS" HorizontalAlignment="Left" Margin="613,288,0,0" VerticalAlignment="Top" Width="38" Click="Match_D2_start"/>
+        <Button x:Name="btn_VS_F" Content="VS" HorizontalAlignment="Left" Margin="402,218,0,0" VerticalAlignment="Top" Width="38" Click="Match_F_start"/>
+
+        <Button x:Name="button" Content="Ajouter un Match" HorizontalAlignment="Left" Margin="281,482,0,0" VerticalAlignment="Top" Width="125" Click="addMatch_Click"/>
+    </Grid>
+</Window>

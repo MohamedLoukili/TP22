@@ -1,0 +1,25 @@
+﻿<Window x:Class="PokemonTournamentWPF.PokeWindow"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:PokemonTournamentWPF"
+      mc:Ignorable="d"
+      Title="Pokemon INfo" Height="491.873" Width="549.766">
+    <Grid Name="poke" Background="AliceBlue" Margin="0,0,0,0">
+        <Image x:Name="image" Source="{Binding}" HorizontalAlignment="Left" Height="229" Margin="46,107,0,0" VerticalAlignment="Top" Width="238"/>
+        <Label x:Name="pokenom" HorizontalAlignment="Left" Height="39" Margin="91,37,0,0" Content="{Binding Nom}" VerticalAlignment="Top" Width="219" FontSize="24.667" FontWeight="Bold"/>
+        <Image x:Name="type" Source="{Binding}" HorizontalAlignment="Left" Height="39" Margin="326,53,0,0" VerticalAlignment="Top" Width="128"/>
+        <Label x:Name="vie" HorizontalAlignment="Left" Height="39" Margin="310,107,0,0" Content="VIE" VerticalAlignment="Top" Width="114" FontSize="16.667" FontWeight="Bold"/>
+        <Label x:Name="vieValue" HorizontalAlignment="Left" Height="39" Margin="424,107,0,0" Content="{Binding carac.Vie}" VerticalAlignment="Top" Width="97" FontSize="16.667" FontWeight="Bold"/>
+        <Label x:Name="force" HorizontalAlignment="Left" Height="39" Margin="310,154,0,0" Content="FORCE" VerticalAlignment="Top" Width="114" FontSize="16.667" FontWeight="Bold"/>
+        <Label x:Name="forceValue" HorizontalAlignment="Left" Height="39" Margin="424,154,0,0" Content="{Binding carac.Force}" VerticalAlignment="Top" Width="97" FontSize="16.667" FontWeight="Bold"/>
+        <Label x:Name="Agilite" HorizontalAlignment="Left" Height="39" Margin="310,201,0,0" Content="ESQUIVE" VerticalAlignment="Top" Width="114" FontSize="16.667" FontWeight="Bold"/>
+        <Label x:Name="esquiveValue" HorizontalAlignment="Left" Height="39" Margin="424,201,0,0" Content="{Binding carac.Esquive}" VerticalAlignment="Top" Width="97" FontSize="16.667" FontWeight="Bold"/>
+        <Label x:Name="endurance" HorizontalAlignment="Left" Height="39" Margin="310,248,0,0" Content="ENDURANCE" VerticalAlignment="Top" Width="114" FontSize="16.667" FontWeight="Bold"/>
+        <Label x:Name="enduranceValue" HorizontalAlignment="Left" Height="39" Margin="424,248,0,0" Content="{Binding carac.Endurance}" VerticalAlignment="Top" Width="97" FontSize="16.667" FontWeight="Bold"/>
+        <Label x:Name="vitesse" HorizontalAlignment="Left" Height="39" Margin="310,297,0,0" Content="VITESSE" VerticalAlignment="Top" Width="114" FontSize="16.667" FontWeight="Bold"/>
+        <Label x:Name="vitesseValue" HorizontalAlignment="Left" Height="39" Margin="424,297,0,0" Content="{Binding carac.Vitesse}" VerticalAlignment="Top" Width="97" FontSize="16.667" FontWeight="Bold"/>
+        <!--<Button x:Name="btn_retour" Content="Retour" HorizontalAlignment="Left" Margin="248,407,0,0" VerticalAlignment="Top" Width="75" Click="button_Click"/> -->
+    </Grid>
+</Window>
