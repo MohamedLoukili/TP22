@@ -1,0 +1,17 @@
+C:\Users\Killian\Source\Repos\TPPokemon\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Killian\Source\Repos\TPPokemon\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Killian\Source\Repos\TPPokemon\UnitTestProject1\bin\Debug\BusinessLayer.dll
+C:\Users\Killian\Source\Repos\TPPokemon\UnitTestProject1\bin\Debug\EntitiesLayer.dll
+C:\Users\Killian\Source\Repos\TPPokemon\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Killian\Source\Repos\TPPokemon\UnitTestProject1\bin\Debug\PokemonTournamentWPF.exe
+C:\Users\Killian\Source\Repos\TPPokemon\UnitTestProject1\bin\Debug\StubDataAccessLayer.dll
+C:\Users\Killian\Source\Repos\TPPokemon\UnitTestProject1\bin\Debug\BusinessLayer.pdb
+C:\Users\Killian\Source\Repos\TPPokemon\UnitTestProject1\bin\Debug\EntitiesLayer.pdb
+C:\Users\Killian\Source\Repos\TPPokemon\UnitTestProject1\bin\Debug\PokemonTournamentWPF.pdb
+C:\Users\Killian\Source\Repos\TPPokemon\UnitTestProject1\bin\Debug\StubDataAccessLayer.pdb
+C:\Users\Killian\Source\Repos\TPPokemon\UnitTestProject1\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Killian\Source\Repos\TPPokemon\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Killian\Source\Repos\TPPokemon\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Killian\Source\Repos\TPPokemon\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Killian\Source\Repos\TPPokemon\UnitTestProject1\bin\Debug\PokemonTournamentConsole.exe
+C:\Users\Killian\Source\Repos\TPPokemon\UnitTestProject1\bin\Debug\PokemonTournamentConsole.pdb
